@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou o Paulo</h1>
-<h3 align="center">Um programador do Espírito Santo</h3>
+<h1 align="center">Hi 👋, I'm Paulo</h1>
+<h3 align="center">A developer from Brasil</h3>
 
 <p align="center">
 <br/>
