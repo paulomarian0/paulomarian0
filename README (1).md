@@ -1,10 +1,19 @@
 <h1 align="center">Olá 👋, Eu sou o Paulo</h1>
 <h3 align="center">Um programador do Espírito Santo</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paulo-mariano-33888720b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="paulo-mariano-33888720b" height="30" width="40" /></a>
-<a href="https://instagram.com/m_oluap_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="m_oluap_" height="30" width="40" /></a>
+<p align="center">
+<br/>
+
+<a href="https://www.linkedin.com/in/paulo-mariano-33888720b/">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+
+<a href="https://www.instagram.com/m_oluap_">
+  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://open.spotify.com/user/mrpaulll?si=8X1y8b8oR7iBX8Zwgc1Nrg">
+  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
