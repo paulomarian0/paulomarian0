@@ -14,8 +14,7 @@
 <a href="https://open.spotify.com/user/mrpaulll?si=8X1y8b8oR7iBX8Zwgc1Nrg">
   <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-<a href="mailto:paulomariano2501@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/>
-</a>
+
 
 </p>
 
