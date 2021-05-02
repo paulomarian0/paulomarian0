@@ -16,6 +16,15 @@
 </a>
 
 
+- 🔭 I’m currently looking for a job **in person or home office**
+
+- 🌱 I’m currently learning **Golang, Django**
+
+- 🤝 I’m looking for help with **Frontend, Fullstack, DevOps**
+
+- 📫 How to reach me **paulomariano2501@gmail.com**
+
+
 </p>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
