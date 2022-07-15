@@ -1,7 +1,7 @@
 <div align="center" marginBottom="50">
   
 <div>
-  <p>  Contact Me:</p>
+  <h1>  Contact Me 👋:</h1>
 <br/>
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulomarian0/)
