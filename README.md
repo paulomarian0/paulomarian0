@@ -12,7 +12,7 @@
   
 
 <p>
-  I'm currently majoring in Computer Science at UVV and working as a Full Stack JavaScript developer 💻. I am a technology enthusiast and I always seek to be on top of news that happen in the technological world, I am always looking for challenges and I try to improve my skills to become a better professional👨‍💼.
+I'm currently majoring in computer science, I'm looking for challenges and ways to better develop myself as a Javascript Web developer.
 </p>
   
 <div>
