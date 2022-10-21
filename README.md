@@ -37,9 +37,11 @@ I'm currently majoring in computer science, I'm looking for challenges and ways 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" width="60" height="60"/> 
   </a> 
+   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="60" height="60"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://camo.githubusercontent.com/fd041e92bd32bf838cdf7819111512faf0e1e1610fd4cd839092abffd2c03c10/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030302f3235362f7371756172655f3438302f6e6f64656a736c6f676f2e706e67" alt="nodejs" width="60" height="60"/> 
   </a> 
+
 </p>
 
 <h3 align="left">Databases:</h3>
@@ -56,6 +58,10 @@ I'm currently majoring in computer science, I'm looking for challenges and ways 
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
+  </a>
+  
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" alt="docker" width="60" height="60"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
