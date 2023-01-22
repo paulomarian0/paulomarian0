@@ -73,7 +73,7 @@ I'm 21 years old and majored in computer science, I'm looking for challenges and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
   </a>
   
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> 
     <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" alt="docker" width="60" height="60"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
