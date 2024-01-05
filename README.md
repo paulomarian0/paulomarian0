@@ -34,7 +34,7 @@ I'm 22 years old and majored in computer science, I'm looking for challenges and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
   </a> 
     <a href="https://github.com/vercel/next.js/" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="css3" width="60" height="60"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="60" height="60"/> 
   </a>
   </p>
 
@@ -45,7 +45,7 @@ I'm 22 years old and majored in computer science, I'm looking for challenges and
   </a> 
    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="60" height="60"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/fd041e92bd32bf838cdf7819111512faf0e1e1610fd4cd839092abffd2c03c10/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030302f3235362f7371756172655f3438302f6e6f64656a736c6f676f2e706e67" alt="nodejs" width="60" height="60"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodejs" width="60" height="60"/> 
   </a> 
 
 </p>
