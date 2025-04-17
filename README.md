@@ -10,7 +10,7 @@
 
 
 <p>
-I'm 23 years old and majored in computer science, I'm looking for challenges and ways to better develop myself as a Javascript/Typescript Web developer.
+I'm 24 years old and majored in computer science, I'm looking for challenges and ways to better develop myself as a Javascript/Typescript Web developer.
 </p>
   
 <div>
