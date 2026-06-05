@@ -4,7 +4,7 @@
 <h2>Hello, I'm Paulo Mariano 👋</h2>
 
 <p>
-{{AGE}} years old, Computer Science graduate and Full Stack Developer focused on the JavaScript and TypeScript ecosystem.
+25 years old, Computer Science graduate and Full Stack Developer focused on the JavaScript and TypeScript ecosystem.
 I enjoy building end-to-end web applications, from designing APIs and working with databases to creating clean and intuitive user interfaces.
 </p>
 
