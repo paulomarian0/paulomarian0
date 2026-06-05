@@ -14,9 +14,15 @@ function calculateAge() {
   return age;
 }
 
-const readmePath = "README.md";
-let readme = fs.readFileSync(readmePath, "utf8");
+const filePath = "README.md";
+let readme = fs.readFileSync(filePath, "utf8");
 
-readme = readme.replace(/{{AGE}}/g, calculateAge());
+const newAge = calculateAge();
 
-fs.writeFileSync(readmePath, readme);
+readme = readme.replace(
+  /<!-- AGE:START -->[\s\S]*<!-- AGE:END -->/,
+  `<!-- AGE:START -->\n${newAge}\n<!-- AGE:END -->`
+);
+
+fs.writeFileSync(filePath, readme);
+console.log("Age updated");
