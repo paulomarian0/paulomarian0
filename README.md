@@ -20,7 +20,6 @@ I also like exploring new tools and technologies that help improve productivity 
 <a href="https://www.linkedin.com/in/paulomarian0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<br/>
 
 <img
 align="right"
@@ -30,13 +29,19 @@ src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"
 <h3>💻 Frontend</h3>
 
 <img
-src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind"
+src="https://skillicons.dev/icons?i=css,html,js,ts"
+/>
+<img
+src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind"
 />
 
 <h3>⚙️ Backend</h3>
 
 <img
-src="https://skillicons.dev/icons?i=nodejs,go,express,nestjs,dotnet"
+src="https://skillicons.dev/icons?i=nodejs,go,express"
+/>
+<img
+src="https://skillicons.dev/icons?i=nestjs,dotnet,rust"
 />
 
 <h3>🗄️ Databases</h3>
@@ -48,6 +53,9 @@ src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"
 <h3>🛠️ Tools</h3>
 
 <img
-src="https://skillicons.dev/icons?i=prisma,kafka,docker,kubernetes,aws,vscode,jest"
+src="https://skillicons.dev/icons?i=kubernetes,aws,jest"
+/>
+<img
+src="https://skillicons.dev/icons?i=kubernetes,aws,jest"
 />
 
