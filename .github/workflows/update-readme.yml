@@ -2,7 +2,7 @@ name: Update Age in README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia
+    - cron: "0 0 26 4 *"
   workflow_dispatch:
 
 jobs:
