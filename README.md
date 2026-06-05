@@ -5,7 +5,7 @@
 
 <p>
 <!-- AGE:START -->
-25
+18
 <!-- AGE:END --> years old, Computer Science graduate and Full Stack Developer focused on the JavaScript and TypeScript ecosystem.
 I enjoy building end-to-end web applications, from designing APIs and working with databases to creating clean and intuitive user interfaces.
 </p>
