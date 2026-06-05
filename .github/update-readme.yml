@@ -1,0 +1,27 @@
+name: Update Age in README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - run: node scripts/update-readme.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "update age" || exit 0
+          git push
