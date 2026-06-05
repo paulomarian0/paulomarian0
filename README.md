@@ -22,6 +22,8 @@ I also like exploring new tools and technologies that help improve productivity 
 <a href="https://www.linkedin.com/in/paulomarian0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </div>
 
+<br/>
+<br/>
 
 <img
 align="right"
