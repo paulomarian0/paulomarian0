@@ -57,7 +57,7 @@ src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"
 <h3>🛠️ Tools</h3>
 
 <img
-src="https://skillicons.dev/icons?i=kubernetes,nginx,jest"
+src="https://skillicons.dev/icons?i=prisma,kafka,docker"
 />
 <img
 src="https://skillicons.dev/icons?i=kubernetes,aws,jest"
