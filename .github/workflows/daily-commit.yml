@@ -17,8 +17,8 @@ jobs:
 
       - name: Commit
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "Paulo Mariano"
+          git config --global user.email "paulomariano2501@gmail.com"
           git add activity.txt
-          git commit -m "daily activity" || exit 0
+          git commit -m "Update README.md" || exit 0
           git push
